@@ -1,0 +1,97 @@
+li {
+  list-style:none;
+}
+.header{
+  background-color:green;
+  height:30px;
+  width:700px;
+}
+
+.header-logo{
+  color:white;
+    font-size:20px;
+    padding:0px 20px;
+    float:left;
+}
+.header-list li{
+  font-size:10px;
+  float:left;
+  padding:10px 27px;
+  color:white;
+}
+.main {
+  padding:10px 20px 10px 20px;
+  width:700px;
+}
+.main-logo{
+  font-size:50px;
+  margin-bottom:0px;
+}
+.main h2{
+  font-size:30px;
+  margin-top:5px;
+  margin-bottom:0px;
+}
+.contents-item img{
+  width:140px;
+  height:auto;
+  padding:25px 20px 0px 0px;
+}
+.contents-item{
+  font-size:13px;
+  float:left;
+}
+.contents h3{
+  border-bottom:1px solid gray;
+}
+.contents{
+  padding:50px 10px;
+  height:300px;
+}
+.contact{
+  padding:0px 40px 50px 40px;
+  width:700;
+}
+
+.contact h3{
+  font-size:20px;
+  padding-bottom:8px;
+  border-bottom:2px solid#dee7ec;
+}
+.contact-form{
+  width:200px;
+  padding-top:25px;
+}
+.contact-form p{
+  font-size:12px;
+}
+input,textarea{
+  padding:10px;
+  width:200px;
+  border:1px solid #dee7ec;
+  font-size:10px;
+}
+.button{
+  color:#889eab;
+  background-color:#dee7ec;
+  width:100px;
+}
+.footer{
+  background-color:#2f5167;
+  height:80px;
+  width:700;
+  color:white;
+}
+
+.footer-logo{
+  font-size:16px;
+  float:left;
+}
+.footer-list{
+  font-size:12px;
+  float:right;
+  padding:10px;
+}
+.footer-list li{
+  padding-buttom:2;
+}
